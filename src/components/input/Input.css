@@ -1,0 +1,6 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  margin: 1rem;
+}
