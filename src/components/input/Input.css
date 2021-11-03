@@ -1,3 +1,9 @@
+.form {
+    padding: 2rem;
+    -webkit-box-shadow: 5px 3px 15px 0px #000000; 
+    box-shadow: 5px 3px 15px 0px #000000;
+}
+
 .input {
   display: flex;
   flex-direction: column;

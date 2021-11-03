@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <h3>Learning</h3>
-      <form onSubmit={onSubmit}>
+      <form className="form" onSubmit={onSubmit}>
         <Input
           label="E-mail"
           type="text"
