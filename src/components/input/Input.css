@@ -10,3 +10,13 @@
   text-align: start;
   margin: 1rem;
 }
+
+.input label {
+  font-size: 25px;
+  margin-bottom: 1rem;
+}
+
+.input input {
+  width: 15rem;
+  padding: 10px;
+}
